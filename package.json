@@ -1,0 +1,17 @@
+{
+  "name": "pegasus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js",
+    "pegasus": "node index.js"
+  },
+  "author": "NEJAN",
+  "dependencies": {
+    "desktop-screenshot": "",
+    "fs": "^0.0.1-security",
+    "ftp": "^0.3.10"
+  }
+}
